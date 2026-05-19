@@ -1,7 +1,5 @@
-# 📄 Dosya İçeriği
-Hackathon 2025 - Yapay Zeka Destekli Yazılım Geliştirme Yarışması
-
 # 🍎 ElmaPDF: Yapay Zeka Destekli PDF Asistanınız
+Hackathon 2025 - Yapay Zeka Destekli Yazılım Geliştirme Yarışması
 
 ElmaPDF, PDF belgelerinizle etkileşim kurma şeklinizi dönüştüren modern bir web uygulamasıdır. Karmaşık PDF'leri yükleyin, yapay zeka destekli özetler alın, kişiselleştirilmiş testlerle bilginizi ölçün ve size özel çalışma planları oluşturun. Öğrenme ve araştırma süreçlerinizi daha verimli ve etkileşimli hale getirmek için tasarlandı.
 
