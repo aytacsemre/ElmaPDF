@@ -63,4 +63,3 @@ ElmaPDF ile öğrenme materyallerinizden en iyi şekilde yararlanın!
 
 ## Elma.exe Takımı
 * Süleyman Emre AYTAÇ
-* Ahmet Hakan YILDIRIM
